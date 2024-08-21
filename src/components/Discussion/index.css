@@ -10,7 +10,7 @@
   margin-bottom: 10px;
   font-size: 27px;
   font-weight: bold;
-  color: blue;
+  color: #f7cc53;
 }
 .right {
   display: flex;
@@ -124,7 +124,7 @@
   font-size: 17px;
   padding: 4px;
   text-align: end;
-  color: blue;
+  color: #f7cc53;
   font-weight: bold;
   overflow: auto;
   overflow-wrap: break-word;

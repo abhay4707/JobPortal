@@ -105,7 +105,7 @@ form {
   display: block;
   width: 100%;
   padding: 0.75rem;
-  background: Green;
+  background: rgb(103, 105, 103);
   color: White;
   border-radius: 2px;
   cursor: pointer;
